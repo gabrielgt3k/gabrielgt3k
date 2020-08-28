@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🧑I'm from Caruaru - PE, Brazil, but i'm living in Goiânia - GO, Brazil since 2016.
 - ✨I'm 21 years old, 
 - 🏢Work as software developer at [@run2biz](https://www.run2biz.com/pt/index.html).
-- 🚀I know Javascript, React, React Native, Node.js, Java, SQL, MongoDB, PostgreSQL, Docker, Cypress, Jest
+- 🚀I know Javascript, React, React Native, Node.js, Java, SQL, MongoDB, PostgreSQL, Docker, Cypress (i'm pretty sure i know/used more technologies than these but i forgot right now xD)
 - 🌱 I’m currently learning  python and django
 - ⚡I'm planning to study about Angular and spring for improve my JAVA skills
 - 👯 I’m looking to collaborate more in the open-source community
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 You can ask me anything [Here](https://github.com/gabrielgt3k/gabrielgt3k/issues)
 
-In my free time, i like to play/watch soccer ⚽ and listen some heavy metal (Megadeth rocks 🤘)
+### In my free time, i like to play/watch soccer ⚽ and listen some heavy metal (Megadeth rocks 🤘)
 
