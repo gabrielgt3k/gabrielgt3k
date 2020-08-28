@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-brown?logo=instagram&style=flat-square&logoColor=white&link=https://instagram.com/gabrielgt3k)](https://www.instagram.com/gabrielgt3k)
 
 ### About me
-- 🧑I'm from Caruaru - PE, Brazil, but i'm living in Goiânia - GO since 2016.
-- 🏢I'm 21 years old, i work as software developer at [@run2biz](https://www.run2biz.com/pt/index.html).
+- 🧑I'm from Caruaru - PE, Brazil, but i'm living in Goiânia - GO, Brazil since 2016.
+- ✨I'm 21 years old, 
+- 🏢Work as software developer at [@run2biz](https://www.run2biz.com/pt/index.html).
 - 🚀I know Javascript, React, React Native, Node.js, Java, SQL, MongoDB, PostgreSQL, Docker, Cypress, Jest
 - 🌱 I’m currently learning  python and django
 - ⚡I'm planning to study about Angular and spring for improve my JAVA skills
