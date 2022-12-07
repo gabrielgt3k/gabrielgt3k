@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### About me
 - 🧑I'm from Caruaru - PE, Brazil, but i'm living in Goiânia - GO, Brazil since 2016.
-- ✨I'm 21 years old, 
+- ✨I'm 23 years old, 
 - 🏢Work as software developer at [@Oobj](https://www.oobj.com.br/).
 - 🚀I have experience in projects using CSS, Javascript, React, React Native, Node.js, Java, Spring, SQL, MongoDB, PostgreSQL, Docker
 - 🌱 I’m currently learning  python and django
